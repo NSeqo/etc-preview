@@ -1,0 +1,19 @@
+
+
+.am-navbar {
+    background-color: #fff;
+    color: #000;
+}
+
+.am-navbar-title {
+    font-size: 16px;
+}
+
+.am-list-item .am-input-control input {
+    font-size: 14px;
+}
+
+.am-list-item.am-input-item {
+    height: auto;
+    padding-left: 0;
+}
